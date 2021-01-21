@@ -2,7 +2,7 @@
 
 
 # Run
-  ./run.rb
+  ruby run.rb
 
 # Options
 
